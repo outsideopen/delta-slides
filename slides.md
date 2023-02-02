@@ -44,8 +44,8 @@ A Hydrant is a device on the target network that serve two functions
 
 <v-clicks>
 
-- Scanning the Network
-- Acting as a Honey Pot
+- It scans the Network
+- It Acts as a Honey Pot
 
 </v-clicks>
 
@@ -53,7 +53,7 @@ A Hydrant is a device on the target network that serve two functions
 
 # Collectors
 
-Network Scanners
+Network Scanner
 
 <v-clicks>
 
